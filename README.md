@@ -1,14 +1,3 @@
-# SQL
-## E-commerce Analysis Using BigQuery
-### Description:
-The project involved conducting data cleaning and preparation to ensure the accuracy and completeness of the "bigquery-public-data.google_analytics_sample" dataset. Join, Common Table Expressions (CTE), and Unnest techniques were used to manipulate the data. SQL queries were developed to calculate precise information for different reports and analysis. 
-
-### Skills:
-The project required skills in data cleaning and preparation, data analysis, and SQL querying such as: join, CTE, and Unnest techniques,...
-
-### Results:
-Join, CTE, and Unnest techniques were used to manipulate the data, and SQL queries were developed to calculate precise information for different reports and analysis.
-
 # Power BI
 ## Superstore Sales Analysis 
 ### Description:
